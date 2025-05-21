@@ -1,5 +1,5 @@
-- Hi!
-- I am a Masters student at IIT Bombay, India
+- Repository for listed projects
+- Intended to be updated 
 
 <!---
 Lunar387/Lunar387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
